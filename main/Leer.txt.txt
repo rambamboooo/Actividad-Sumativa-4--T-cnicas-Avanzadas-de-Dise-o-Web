@@ -1,0 +1,3 @@
+El landing page se encuentra en el index, de ahí se parten a las demás páginas.
+Creado por Ricardo Gonzalez, 31614843
+Universidad Bicentenaria de Aragua, 2025
